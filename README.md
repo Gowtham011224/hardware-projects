@@ -32,5 +32,6 @@ An Arduino-based system to detect surrounding obstacles and provide proximity al
 
 ## Setup & Usage
 Upload the Arduino code, connect the components, and power the system.
+
 Code available in `code` folder
 ---
